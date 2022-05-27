@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@400;600;700&display=swap');
+
+
+body {
+    background: url('M4-desafio1-fondo.png');
+    color:black;
+}
+
+div {
+    width: 50%;
+    margin:auto;
+    text-align: center;
+    padding: 20px;
+    background: url('M4-desafio1-fondo-form.png');
+    background-size: cover;
+    
+    
+}
+
+div form {
+    width: 90%;
+    background-color: white;
+    padding: 10px;
+    margin:auto;
+    
+    
+}
+
+input {
+   
+    height: 40px;
+    
+}
+
+input , button {
+    margin-top: 10px;
+    width: 100%;
+}
+
+button {
+    height: 40px;
+}
